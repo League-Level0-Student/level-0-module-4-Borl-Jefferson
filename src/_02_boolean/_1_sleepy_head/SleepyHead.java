@@ -72,6 +72,7 @@ else {
 		// Ask the user what color to draw with. Based on their answer, set the isRed variable
 		
 		
+		
 		boolean isSquare;		
 		// Now ask the user what shape to draw. Based on their answer, set the isSquare variable
 		
